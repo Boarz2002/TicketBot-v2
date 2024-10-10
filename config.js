@@ -22,6 +22,6 @@
 
 module.exports = {
     token: '',
-    guildId: '613371735756242954',
+    guildId: '1293933723166965830',
     mongodbURI: 'mongodb+srv://dopin2002:yrtJOf59gJg8MeY9@cluster0.hgmxm.mongodb.net/?retryWrites=true&w=majority'
 };
